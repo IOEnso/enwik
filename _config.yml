@@ -1,0 +1,24 @@
+# this.is.Настройки
+# Название
+name: ENWIK
+
+# Описание
+description: This is a sample Jekyll Blog.
+
+#baseurl: /path/to/site 
+baseurl: 
+
+# УРЛА УРЛА ЕЩЁ РАЗ УРЛА
+url: 
+
+# Разметка
+markdown: rdiscount
+
+# Вид ссылок
+permalink: pretty
+
+# Сколько записей будет постицо
+paginate: 3
+
+# Это не трогать, а то черт знает где взорвется чебурашка
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
